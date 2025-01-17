@@ -1,5 +1,5 @@
 import random
-print('a')
+
 storage = 0
 table = random.randint(1, 3)
 joker = 2
